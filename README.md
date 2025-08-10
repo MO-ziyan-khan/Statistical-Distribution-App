@@ -170,18 +170,9 @@ A comprehensive statistical distribution visualization tool built with Streamlit
 - Clear browser cache and refresh
 - Try different browsers (Chrome, Firefox, Safari)
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests.
-
-## 📞 Support
-
-For questions or support, please open an issue in the project repository or contact the development team.
-
 ---
 
 **Built with ❤️ using Streamlit, Plotly, and SciPy**
